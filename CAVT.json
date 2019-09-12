@@ -1,0 +1,75 @@
+{
+    "cavtNumber": "1i",
+    "cavtCategory": "ADAM",
+    "cavtName": "Vita Adae et Euae (Apocalypsis Moysi)",
+    "names": [
+      {
+        "language": "GR",
+        "names": [
+          "Διήγησις καὶ πολιτεία Ἀδὰμ καὶ Εὔας τῶν πρωτοπλάστων",
+          "Αποκάλυψις Μωυσέως"      
+        ]
+      },
+      {
+        "language": "LA",
+        "names": [
+          "Vita Adae et Euae"
+        ]
+      },
+      {
+        "language": "EN",
+        "names": [
+          "Life of Adam and Eve",
+          "Apocalypse of Moses"
+        ]
+      }
+    ],
+    "references": [
+      {
+        "reference": "RB 74 & 74:1-19",
+        "url": "http://www.repbib.uni-trier.de/cgi-bin/rebiIndex.tcl?ac=searchlist&vtext=&vtbtn=und&xaut=&taut=&xord=&tord=&xbib=&tbib=&xoli=&toli=&xuot=&suot=&tlnr=&tinc=&texp=&tttl=Apocalypsis%20Moysis&xttl=&suzt=&xzeit=#erg",
+        "notes": ""
+      },
+      {
+        "reference": "HJPTJC III p. 757-760",
+        "url": "https://archive.org/details/historyofjewishp05sch/page/146",
+        "notes": ""
+      },
+      {
+        "reference": "M.E. Stone, A History of the literature of Adam and Eve, p. 6-14",
+        "url": "https://www.worldcat.org/title/history-of-the-literature-of-adam-and-eve/oclc/243733716",
+        "notes": ""
+      },
+      {
+        "reference": "A.M. Denis, ILRJH",
+        "url": "https://www.worldcat.org/title/introduction-la-littrature-religieuse-judo-hellnistique-pseudpigraphes-de-lancien-testament/oclc/1014877350",
+        "notes": "Ad loc."
+      }
+    ],
+    "notes": [  "The title 'Apocalypse of Moses' was coined by C. Tischendorf"  ],
+    "versions": [
+      {
+        "language": "GR",
+        "texts": [
+          {
+            "reference": "D.A. BERTRAND, La vie grecque d’Adam et Eve. Introduction, texte, traduction et commentaire (Recherches intertestamentaires i), Paris, 1987",
+            "url": "https://www.worldcat.org/title/vie-grecque-dadam-et-eve/oclc/17515507",
+            "notes": "e 21 codd. (27 codd. recogniti)"
+          },
+          {
+            "reference": "M. NAGEL, La vie grecque d'Adam et d'Ève. Apoca lypse de Moise, 3 tom., Lille, 1974",
+            "url": "https://www.worldcat.org/title/vie-grecque-dadam-et-deve-apocalypse-de-moise/oclc/2823729",
+            "notes": "Text derived from Tischendorf"
+          },
+          {
+            "reference": "C. TISCHENDORF, Apocalypses apocryphae Mosis, Esdrae, Pauli, Iohannis, item Mariae dormitio, additis Evangeliorum et Actuum apocryphorum supplementis, Leipzig, 1866, p. (x-xii), 1-23",
+            "url": "https://archive.org/details/apocalypsesapoc00perkgoog/page/n79",
+            "notes": "e 4 codd."
+          },
+          {
+            "reference": "J.L. SHARPE, Prolegomena to the Establishment of the Critical Text of the Greek Apocalypse of Moses (Unpublished Diss. Duke Univ.), Ann Arbor, Michigan, 1969",
+            "url": "https://www.worldcat.org/title/prolegomena-to-the-establishment-of-the-critical-text-of-the-greek-apocalypse-of-moses/oclc/1074562766",
+            "notes": "e 16 codd."
+          }
+     ]
+}
